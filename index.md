@@ -2,9 +2,9 @@
 
 we will start off with the triple crochet stitch (uk)
 
-1. [you first need to know how to do a slip knot as seen here] (https://youtube.com/shorts/h8mKYvh3C9w?feature=share3)
+1. [you first need to know how to do a slip knot as seen here](https://youtube.com/shorts/h8mKYvh3C9w?feature=share3)
 
-2. [to do the stitch you begin by creating a chain by putting the yarn over the hook, grabbing it with the hook and pulling it through] (https://youtube.com/shorts/uqB9UyvdgoA?feature=share3)
+2. [to do the stitch you begin by creating a chain by putting the yarn over the hook, grabbing it with the hook and pulling it through](https://youtube.com/shorts/uqB9UyvdgoA?feature=share3)
 
 3. now you make the first row which can also be called a foundation chain. you start by putting the yarn over the hook and then insert it in the back loop in the v shape of your chain. 
 
