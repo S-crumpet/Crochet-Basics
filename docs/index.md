@@ -1,5 +1,6 @@
 # The Basics Of Crochet
 
+## triple crochet
 we will start off with the triple crochet stitch (uk)
 
 1. [you first need to know how to do a slip knot as seen here](https://youtube.com/shorts/h8mKYvh3C9w?feature=share3)
@@ -26,7 +27,7 @@ we will start off with the triple crochet stitch (uk)
 
    NOTE: On all rows that are not the foundation chain or chain you insert your hook into the v shape of the stitch - both the front and back loops of the v 
 
-# double crochet (uk)
+## double crochet (uk)
 
 1. double crochet has the first two steps as triple crochet (above)
 
@@ -43,3 +44,25 @@ we will start off with the triple crochet stitch (uk)
 4. turn your work and do one chain (this is known as a turning chain)
 
 5. repeat step 2 and three but put the hook through the two loops of the v shape
+
+## treble crochet
+
+1. To begin do a slip knot and then a chain for as long as you want your piece to be
+
+2. Now you need to do the foundation chain. 
+
+   To do the foundation chain, chain four as your turning chain, *then yarn over twice and insert the hook into the back loop of the v.
+
+   yarn over and pull through. 
+
+   you will now have four loops on your hook
+
+   yarn over and pull through two loops*
+
+   yarn over and pull through all the loops on the hook.
+
+   NOTE: depending on the project you are doing you may have to repeat from * to * multiple times before yarning over and pulling through all the loops
+
+3. repeat step 2 but this time insert through both loops in the v
+
+NOTE: treble crochet is used in a lot of [granny squares for making flower petals](https://www.youtube.com/watch?v=DJrZcRLP0iw&t=401sor) 
