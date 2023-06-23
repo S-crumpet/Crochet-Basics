@@ -6,24 +6,40 @@ we will start off with the triple crochet stitch (uk)
 
 2. [to do the stitch you begin by creating a chain by putting the yarn over the hook, grabbing it with the hook and pulling it through](https://youtube.com/shorts/uqB9UyvdgoA?feature=share3)
 
-3. now you make the first row which can also be called a foundation chain. you start by putting the yarn over the hook and then insert it in the back loop in the v shape of your chain. 
+3. now you make the first row which can also be called a foundation chain.stitch three chains to start your row then you put the yarn over the hook and then insert it in the back loop in the v shape of your chain. 
 
-there are now three loops on your hook
+   there are now three loops on your hook
 
-start by putting the yarn over the hook then pulling the yarn through just the first loop on your hook
+   start by putting the yarn over the hook then pulling the yarn through just the first loop on your hook
 
-now yarn over again but pull it through the first two loops
+   now yarn over again but pull it through the first two loops
 
-you now have two loops on your hook
+   you now have two loops on your hook
 
-yarn over and pull through all the loops on your hook which should be two 
+   yarn over and pull through all the loops on your hook which should be two 
 
 4. repeat this until you reach the end of the chain 
 
 5. to turn your work simply flip your bit of crochet and chain three (this is because three is the height of one triple crochet stitch)
 
-continue to stich as seen in step three
+   continue to stich as seen in step three
 
-NOTE: On all rows that are not the foundation chain or chain you insert your hook into the v shape of the stitch - both the front and back loops of the v 
+   NOTE: On all rows that are not the foundation chain or chain you insert your hook into the v shape of the stitch - both the front and back loops of the v 
 
-#double crochet (uk)
+# double crochet (uk)
+
+1. double crochet has the first two steps as triple crochet (above)
+
+2. After completing these first two steps we again need to create a foundation chain.
+
+   here we do one chain to begin the row and then insert the hook into the back loop of the v. yarn over and pull through
+
+   you now will have two loops on your hook
+
+   yarn over and pull through both the loops
+
+3. repeat step 2 until you reach the end of your chain
+
+4. turn your work and do one chain (this is known as a turning chain)
+
+5. repeat step 2 and three but put the hook through the two loops of the v shape
