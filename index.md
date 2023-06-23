@@ -26,3 +26,4 @@ continue to stich as seen in step three
 
 NOTE: On all rows that are not the foundation chain or chain you insert your hook into the v shape of the stitch - both the front and back loops of the v 
 
+another line
